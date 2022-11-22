@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clothes Store</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="catalogue">CATALOGUE</string>
+    <string name="wishlist">WISHLIST</string>
+    <string name="basket">BASKET</string>
+    <string name="txt_catalogue">Catalogue</string>
+    <string name="product_title">Product Title</string>
+</resources>
